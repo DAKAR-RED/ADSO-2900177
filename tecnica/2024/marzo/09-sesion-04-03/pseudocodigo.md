@@ -28,7 +28,7 @@ Algoritmo sin_titulo
 	
 FinAlgoritmo
 ```
-# Promedio alumno
+# PROMEDIO ALUMNO
 ```
 Algoritmo 
    Definir exMat, exFi, exQui Como Real
@@ -74,7 +74,7 @@ Algoritmo
    Escribir "El promedio general es: ",proGen
 Fin
 ```
-# Positivo y negativo
+# POSITIVO O NEGATIVO
 ```
 Inicio
     Definir num Como Real
@@ -87,7 +87,7 @@ Inicio
 	Finsi
 Fin
 ```
-# Mayor o menor a 200
+# MAYOR O MENOR A 200
 ```
 Inicio
     Definir num Como Real
