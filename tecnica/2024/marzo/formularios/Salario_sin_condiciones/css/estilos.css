@@ -1,0 +1,36 @@
+
+/*
+saludo -> hola mundo
+autor: mauricio noscue
+fecha: 17-06-2024
+*/
+
+.container {
+    width: 1050px;
+    margin-top: 90px;
+  
+}
+.formulario{
+    border: 1px solid #34a5e7;
+    
+}
+.respuesta{
+    border: 1px solid #34a5e7
+}
+.formulario, .respuesta{
+    margin-left: 10px;
+    border-radius: 6px;
+    padding: 30px;
+    color:rgb(0, 0, 0);
+
+}
+.btn-primary{
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+.btn-primary:hover{
+    transition: 0.5s;
+    transform: scale(1.2);
+
+}
